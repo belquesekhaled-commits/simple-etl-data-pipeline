@@ -1,0 +1,13 @@
+order_id,customer_name,product,category,price,quantity,order_date,city
+1001,Ahmed Ali,Wireless Mouse,Accessories,25.0,2,2025-03-01,Cairo
+1002,Sara Mostafa,Laptop Stand,Accessories,40.0,1,2025-03-02,Alexandria
+1003,Omar Hassan,Mechanical Keyboard,Accessories,75.0,1,2025-03-03,Giza
+1004,Mona Adel,USB-C Hub,Accessories,,1,2025-03-03,Cairo
+1005,Youssef Tarek,Monitor 24 inch,Monitors,180.0,1,2025-03-04,Mansoura
+1006,Nour Emad,Gaming Headset,Audio,65.0,2,2025-03-04,Cairo
+1007,Laila Samy,Webcam HD,Accessories,55.0,1,2025-03-05,Tanta
+1008,Kareem Fathi,Bluetooth Speaker,Audio,90.0,1,2025-03-05,Giza
+1009,Hana Magdy,Office Chair,Furniture,210.0,1,2025-03-06,Alexandria
+1010,Ali Reda,Desk Lamp,Furniture,30.0,3,2025-03-06,Cairo
+1011,Ahmed Ali,Wireless Mouse,Accessories,25.0,2,2025-03-01,Cairo
+1012,Salma Nabil,External SSD,Storage,120.0,1,2025-03-07,Cairo
